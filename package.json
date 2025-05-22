@@ -1,0 +1,6 @@
+{
+  "name": "pinia-hmr-plugin",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
