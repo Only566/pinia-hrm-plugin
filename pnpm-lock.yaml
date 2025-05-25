@@ -35,12 +35,12 @@ importers:
         version: 6.3.5
       vite-pinia-hmr-plugin:
         specifier: workspace:*
-        version: 'link:../packages/vite-pinia-hmr-plugin '
+        version: link:../packages/vite-pinia-hmr-plugin
       vue-tsc:
         specifier: ^2.2.8
         version: 2.2.10(typescript@5.8.3)
 
-  'packages/vite-pinia-hmr-plugin ':
+  packages/vite-pinia-hmr-plugin:
     dependencies:
       '@babel/core':
         specifier: ^7.26.10
